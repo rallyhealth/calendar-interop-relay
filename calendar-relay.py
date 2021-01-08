@@ -14,8 +14,8 @@ app = Flask(__name__)
 
 
 """
-You will want to replace the credentials method below with your 
-own data or call to a secrets manager.
+You will want to replace the credentials below with your 
+own data or calls to a secrets manager.
 """
 
 # used to validate the credentials sent by Google
